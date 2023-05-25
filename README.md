@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OoSnowfxm
-- now I am a student in computer science 
-- 👀 I’m interested in ai and linux area
-- 🌱 I’m currently a bachelor student
+- now I am a student in computer science
+- 👀 I’m interested in ai area， also a big fan of acgn(anime, comic, game and novel)
+- 🌱 I am a master's student currently studying
 
 <!---
 OoSnowfxm/OoSnowfxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
